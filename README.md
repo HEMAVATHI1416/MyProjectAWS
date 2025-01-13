@@ -1,1 +1,1 @@
-# MyProjectAWS
+AWS Code Build Demo App
